@@ -3,7 +3,7 @@ public class Name{
     {
      for(int i=1;i<=100;i++)
      {
-         System.out.println("ManeyBabe");
+         System.out.println("Hello");
      }
     
     }
